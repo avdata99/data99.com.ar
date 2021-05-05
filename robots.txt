@@ -1,0 +1,4 @@
+Sitemap: https://data99.com.ar/sitemapindex.xml
+
+User-Agent: *
+Host: data99.com.ar
